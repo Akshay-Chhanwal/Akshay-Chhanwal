@@ -80,19 +80,9 @@
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay-Chhanwal&hide_border=true" alt="Contribution Activity Graph"/>
-</p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akshay-Chhanwal&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-</p>
 
 ---
 
@@ -105,11 +95,6 @@ A simple interactive Tic Tac Toe game built using HTML, CSS and JavaScript.
 **Tech:** HTML • CSS • JavaScript
 
 🔗 [View Project](https://github.com/Akshay-Chhanwal/Tic-Tac-Toe)
-
----
-
-
-
 
 ---
 
