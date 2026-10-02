@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akshay Chhanwal</h1>
 
 <h3 align="center">
-  💻 B.Tech IT Student | Java & DSA Learner | Frontend Developer
+  💻 B.Tech IT Student | Java | Frontend Developer
 </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akshay-Chhanwal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 - 🎓 I'm currently pursuing **B.Tech in Information Technology**
