@@ -104,7 +104,7 @@ A simple interactive Tic Tac Toe game built using HTML, CSS and JavaScript.
 
 **Tech:** HTML • CSS • JavaScript
 
-🔗 [View Project](https://github.com/Akshay-Chhanwal/YOUR-TIC-TAC-TOE-REPOSITORY)
+🔗 [View Project](https://github.com/Akshay-Chhanwal/Tic-Tac-Toe)
 
 ---
 
