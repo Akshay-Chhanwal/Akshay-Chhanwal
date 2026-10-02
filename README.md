@@ -3,7 +3,7 @@
 <h3 align="center">
   💻 B.Tech IT Student | Java | Frontend Developer
 </h3>
-## 👨‍💻 About Me
+  👨‍💻 About Me
 
 - 🎓 I'm currently pursuing **B.Tech in Information Technology**
 - 🌱 Currently learning **Java, Data Structures & Algorithms**
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+🛠️ Languages & Tools
 
 <p align="left">
 
