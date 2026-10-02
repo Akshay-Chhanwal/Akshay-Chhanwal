@@ -108,23 +108,8 @@ A simple interactive Tic Tac Toe game built using HTML, CSS and JavaScript.
 
 ---
 
-### 💻 Java & DSA
 
-A collection of Java programs and Data Structures & Algorithms practice problems.
 
-**Tech:** Java
-
-🔗 [View Repository](https://github.com/Akshay-Chhanwal/YOUR-JAVA-DSA-REPOSITORY)
-
----
-
-### 🌐 Frontend Projects
-
-A collection of my frontend development practice projects using HTML, CSS and JavaScript.
-
-**Tech:** HTML • CSS • JavaScript
-
-🔗 [View Repository](https://github.com/Akshay-Chhanwal/YOUR-FRONTEND-REPOSITORY)
 
 ---
 
