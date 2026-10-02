@@ -6,10 +6,10 @@
   👨‍💻 About Me
 
 - 🎓 I'm currently pursuing **B.Tech in Information Technology**
-- 🌱 Currently learning **Java, Data Structures & Algorithms**
+- 🌱 Currently learning **Java**
 - 💻 I have experience with **C, HTML, CSS and JavaScript**
 - 🚀 Interested in **Software Development and Problem Solving**
-- 🧠 Currently improving my **DSA and programming skills**
+- 🧠 Currently improving my **programming skills**
 - 🔨 I enjoy building small projects and learning by doing
 - 📚 Always interested in learning new technologies
 - 📫 Reach me at **chhanwalakshay@gmail.com**
