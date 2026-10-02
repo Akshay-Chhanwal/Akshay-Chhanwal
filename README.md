@@ -51,7 +51,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 </a>
 
-<a href="https://github.com/" target="_blank">
+<a href="https://github.com/Akshay-Chhanwal" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
 </a>
 
